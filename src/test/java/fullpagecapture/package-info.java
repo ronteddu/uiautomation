@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author ravio
- *
- */
-package fullpagecapture;
